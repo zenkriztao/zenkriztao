@@ -8,3 +8,6 @@ Author medium
 - 🌱 I’m currently learning full-stack web development with javascript and PWA
 - 🤔 I'm a person who thirsts for knowledge
 - 📫 How to reach me: https://instagram.com/nrp_saotome
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=divetri&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)	[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=divetri&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divetri&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
