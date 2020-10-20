@@ -1,5 +1,5 @@
 <h1 align='center'> 
-    <img src = "https://brainhub.eu/blog/wp-content/uploads/2019/10/software-engineer-skills-devops.png" width = "800px", height ="400px">
+    <img src = "https://blog.crowdbotics.com/content/images/2019/05/MERN.png" width = "800px", height ="400px">
 </h1>
 
 <p align='center'>
