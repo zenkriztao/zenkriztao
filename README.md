@@ -1,5 +1,5 @@
 <h1 align='center'> 
-    <img src = "https://blog.crowdbotics.com/content/images/2019/05/MERN.png" width = "400px", height ="200px">
+    <img src = "https://blog.crowdbotics.com/content/images/2019/05/MERN.png" width = "600px", height ="300px">
 </h1>
 
 <p align='center'>
