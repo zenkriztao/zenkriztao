@@ -12,28 +12,8 @@
 [<img align="left" alt="gpu.js" width="75px" src="https://gpu.rocks/static/media/jelly.3587de60.png" />](https://gpu.rocks/)
 
 
-<p align='center'>
-    <a href="https://www.youtube.com/channel/UCBdOx25we3fYTne9HDe1nDw?view_as=subscriber">
-        <img height="30" src="https://dazelpro.com/assets/images/icon/git-yt.svg">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://twitter.com/zenkriztao">
-        <img height="30" src="https://dazelpro.com/assets/images/icon/git-tw.svg">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/muhammadrizki1/">
-        <img height="30" src="https://dazelpro.com/assets/images/icon/git-in.svg">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.instagram.com/nrp_saotome/">
-        <img height="30" src="https://dazelpro.com/assets/images/icon/git-ig.svg">
-    </a>
-</p>
 
-<h1 align='center'> 
-    Hello there, I'm Muhammad Rizki. 
-    <img src = "https://dazelpro.com/assets/images/wave.gif" width = "30px">
-</h1>
+
 
 Here are some ideas to get you started:
 
