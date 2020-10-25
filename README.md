@@ -10,9 +10,3 @@
 [<img align="left" alt="Next.js" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />](https://nextjs.org)
 [<img align="left" alt="three.js" width="75px" src="https://discoverthreejs.com/static/images/logo/threejs_logo_black_trans.svg" />](https://threejs.org)
 [<img align="left" alt="gpu.js" width="75px" src="https://gpu.rocks/static/media/jelly.3587de60.png" />](https://gpu.rocks/)
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zenkriztao&count_private=true&show_icons=true&theme=grey)](https://github.com/zenkriztao/github-readme-stats)	
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenkriztao&layout=compact&theme=grey)](https://github.com/zenkriztao/github-readme-stats) 
-
-#####
