@@ -10,10 +10,30 @@
 [<img align="left" alt="Next.js" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />](https://nextjs.org)
 [<img align="left" alt="three.js" width="75px" src="https://discoverthreejs.com/static/images/logo/threejs_logo_black_trans.svg" />](https://threejs.org)
 [<img align="left" alt="gpu.js" width="75px" src="https://gpu.rocks/static/media/jelly.3587de60.png" />](https://gpu.rocks/)
-#
-121#£##
-#####
-##
-##
-####3
-#####
+
+
+![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zenkriztao&langs_count=8&hide=c,css,assembly,c%2B%2B&layout=compact)
+
+## Get in touch
+- Email: info@ryusan.id
+- Instagram: https://instagram.com/nrp_saotome
+
+![github stats](https://github-readme-stats.vercel.app/api?username=zenkriztao&show_icons=true&count_private=true&include_all_commits)
+
+<br/>
+
+## If you like my Apps you can send me Donation on :
+<a href="https://www.buymeacoffee.com/zenkriztao" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-black.png" alt="Buy Me A Coffee" style="height: 10px !important;width: 10px !important;" ></a>
+<table>
+  <tr>
+    <th>Trakteer.id</th>
+    <th>Paypal.me</th>
+  </tr>
+  <tr>
+     <td>
+       <a href="https://trakteer.id/zenkriztao" target="_blank"><img src="https://i.ibb.co/ZWTfPPv/myqr.png" alt="Send me donation"></img></a><br/>
+<a href="https://trakteer.id/zenkriztao" style="background: rgba(191,53,46,.7); text-align: center; color: white; box-sizing: border-box; max-width: 220px; padding: 5px; line-height: 1.25em; border-radius: .2em; font-size: .8em;">trakteer.id/zenkriztao</a>
+    </td>
+  </tr>
+</table>
+
