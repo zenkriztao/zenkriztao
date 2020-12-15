@@ -16,8 +16,7 @@
 
 ## Get in touch
 ## Get in touch
-- Email: info@ryusan.id
-- Instagram: https://instagram.com/nrp_saotome
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=zenkriztao&show_icons=true&count_private=true&include_all_commits)
 
