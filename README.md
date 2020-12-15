@@ -11,8 +11,9 @@
 [<img align="left" alt="three.js" width="75px" src="https://discoverthreejs.com/static/images/logo/threejs_logo_black_trans.svg" />](https://threejs.org)
 [<img align="left" alt="gpu.js" width="75px" src="https://gpu.rocks/static/media/jelly.3587de60.png" />](https://gpu.rocks/)
 
-## Get in touch
-## Get in touch
+
+
+
 ## Get in touch
 ## Get in touch
 - Email: info@ryusan.id
@@ -30,7 +31,7 @@
   </tr>
   <tr>
      <td>
-       <a href="https://trakteer.id/zenkriztao" target="_blank"><img src="https://ibb.co/N1QjZxK" alt="Send me donation"></img></a><br/>
+       <a href="https://trakteer.id/zenkriztao" target="_blank"><img src="<a href="https://imgbb.com/"><img src="https://i.ibb.co/FsNwg6z/Screen-Shot-2020-12-15-at-18-10-11.png" alt="Screen-Shot-2020-12-15-at-18-10-11" border="0"></a>" alt="Send me donation"></img></a><br/>
 <a href="https://trakteer.id/zenkriztao" style="background: rgba(191,53,46,.7); text-align: center; color: white; box-sizing: border-box; max-width: 220px; padding: 5px; line-height: 1.25em; border-radius: .2em; font-size: .8em;">trakteer.id/zenkriztao</a>
     </td>
   </tr>
