@@ -12,8 +12,6 @@
 [<img align="left" alt="gpu.js" width="75px" src="https://gpu.rocks/static/media/jelly.3587de60.png" />](https://gpu.rocks/)
 
 
-![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zenkriztao&langs_count=8&hide=c,css,assembly,c%2B%2B&layout=compact)
-
 ## Get in touch
 - Email: info@ryusan.id
 - Instagram: https://instagram.com/nrp_saotome
@@ -27,11 +25,10 @@
 <table>
   <tr>
     <th>Trakteer.id</th>
-    <th>Paypal.me</th>
   </tr>
   <tr>
      <td>
-       <a href="https://trakteer.id/zenkriztao" target="_blank"><img src="https://i.ibb.co/ZWTfPPv/myqr.png" alt="Send me donation"></img></a><br/>
+       <a href="https://trakteer.id/zenkriztao" target="_blank"><img src="https://ibb.co/N1QjZxK" alt="Send me donation"></img></a><br/>
 <a href="https://trakteer.id/zenkriztao" style="background: rgba(191,53,46,.7); text-align: center; color: white; box-sizing: border-box; max-width: 220px; padding: 5px; line-height: 1.25em; border-radius: .2em; font-size: .8em;">trakteer.id/zenkriztao</a>
     </td>
   </tr>
