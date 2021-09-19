@@ -9,9 +9,11 @@
 [<img align="left" alt="Deck.gl" width="75px" src="https://deck.gl/images/icon-layers.svg" />](https://deck.gl)
 [<img align="left" alt="Next.js" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />](https://nextjs.org)
 [<img align="left" alt="three.js" width="75px" src="https://discoverthreejs.com/static/images/logo/threejs_logo_black_trans.svg" />](https://threejs.org)
-[<img align="left" alt="three.js" width="75px" src="https://discoverthreejs.com/static/images/logo/threejs_logo_black_trans.svg" />](https://threejs.org)
 
 
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=zenkriztao&show_icons=true&count_private=true&include_all_commits).
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenkriztao&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="zenkriztao" /></p>
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazipan&row=2&column=4&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="mazipan" /></a></p>
@@ -21,8 +23,5 @@
 
 
 ### Get in touch
-### Get in touch
 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=zenkriztao&show_icons=true&count_private=true&include_all_commits).
 
