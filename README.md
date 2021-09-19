@@ -2,7 +2,7 @@
 
 Developer from Indonesian 🇮🇩.
 
-Become 10X Engineer An Indonesia Developer 🇮🇩 coder and designer, Frontend developer web and mobile passionate about ReactJS, NextJS, React-native, Little Bit Backend Developer MongoDB, NodeJS, Firebase, C++, Tailwind UI, and much more,✨.
+Become 10X Engineer An Indonesia Developer 🇮🇩 coder and designer, Frontend developer web and mobile passionate about Javascript, ReactJS, NextJS, React-native and much more,✨.
 
 
 
