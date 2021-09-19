@@ -11,13 +11,13 @@
 [<img align="left" alt="three.js" width="75px" src="https://discoverthreejs.com/static/images/logo/threejs_logo_black_trans.svg" />](https://threejs.org)
 [<img align="left" alt="gpu.js" width="75px" src="https://gpu.rocks/static/media/jelly.3587de60.png" />](https://gpu.rocks/)
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=mazipan&show_icons=true&theme=nightowl&locale=en" alt="mazipan" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=zenkriztao&show_icons=true&theme=nightowl&locale=en" alt="zenkriztao" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazipan&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="mazipan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenkriztao&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="zenkriztao" /></p>
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazipan&row=2&column=4&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="mazipan" /></a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazipan&" alt="mazipan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenkriztao&" alt="zenkriztao" /></p>
 
 
 
