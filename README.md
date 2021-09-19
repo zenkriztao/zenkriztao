@@ -11,7 +11,6 @@
 [<img align="left" alt="three.js" width="75px" src="https://discoverthreejs.com/static/images/logo/threejs_logo_black_trans.svg" />](https://threejs.org)
 [<img align="left" alt="three.js" width="75px" src="https://discoverthreejs.com/static/images/logo/threejs_logo_black_trans.svg" />](https://threejs.org)
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=zenkriztao&show_icons=true&theme=nightowl&locale=en" alt="zenkriztao" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenkriztao&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="zenkriztao" /></p>
 
