@@ -9,7 +9,6 @@ Become 10X Engineer An Indonesia Developer 🇮🇩 coder and designer, Frontend
 ![github stats](https://github-readme-stats.vercel.app/api?username=zenkriztao&show_icons=true&count_private=true&include_all_commits).
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenkriztao&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="zenkriztao" /></p>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazipan&row=2&column=4&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="mazipan" /></a></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenkriztao&" alt="zenkriztao" /></p>
 
