@@ -21,7 +21,7 @@ Become 10X Engineer An Indonesia Developer 🇮🇩 coder and designer, Frontend
 
 
 
-###  Skill
+###
 
 
 [<img align="left" alt="React" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](http://reactjs.org)
