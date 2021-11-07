@@ -10,10 +10,14 @@ Become 10X Engineer An Indonesia Developer 🇮🇩 coder and designer, Frontend
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenkriztao&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="zenkriztao" /></p>
 
 
-### History
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenkriztao&" alt="zenkriztao" /></p>
+
+<p>
+  <p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenkriztao&" alt="zenkriztao" />
+  </p>
+</p>
 
 
 
