@@ -1,9 +1,4 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=zenkriztao&show_icons=true&count_private=true&layout=compact&theme=nightowl&include_all_commits).
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenkriztao&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="zenkriztao" /></p>
-
-
-
-
 
 <p>
   <p>
