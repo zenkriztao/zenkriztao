@@ -34,8 +34,8 @@ me.sayHi();
 ## 📝 Visit Me
 
 - LinkedIn: [https://www.linkedin.com/in/muhammadrizkii/](https://www.linkedin.com/in/muhammadrizkii/)
-- Hackerrank: [https://www.hackerrank.com/ahmad_faisalewy](https://www.hackerrank.com/profile/sqrt_9_CForce)
-- Instagram: [https://www.instagram.com/fzl_22/](https://www.instagram.com/muhammad.rrzki/)
+- Hackerrank: [https://www.hackerrank.com/profile/sqrt_9_CForce](https://www.hackerrank.com/profile/sqrt_9_CForce)
+- Instagram: [https://www.instagram.com/muhammad.rrzki](https://www.instagram.com/muhammad.rrzki/)
 
 
 ## 🔧 Technologies & Tools
